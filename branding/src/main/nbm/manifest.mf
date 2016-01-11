@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: org/agmip/ui/workbench/rcp/application/branding/Bundle.properties
+AutoUpdate-Essential-Module: true
